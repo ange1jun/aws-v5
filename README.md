@@ -1,13 +1,13 @@
-CI/CD 배포
+# AWS CI/CD 
 - EC2 2개
 - ALB
 - NLB
 - IAM
 - GithubAction
 - RDS
-- 엘라스틱IP
+- Elastic IP
 
-# test
+# Success
 - EC2 2개 생성 
 - RDS 생성
 - deploy.yml 수정
